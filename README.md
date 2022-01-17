@@ -24,6 +24,6 @@ research direction, we are planning to collect additional image data in order to
 increase the classification accuracy of our model. This makes our system ca-
 pable of accommodating different hand writings. Currently, we are developing
 a web-based application to deploy our algorithm. Therefore, in the future we
-would like to finish the application and make the system available to the users.
-9
+would like to finish the application and make the system available to users.
+
 
